@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DepartmentServiceApplication {
-
+// this is next line by me
 	public static void main(String[] args) {
 		SpringApplication.run(DepartmentServiceApplication.class, args);
       Teacher teacher = new Teacher(1, "Teacher");
